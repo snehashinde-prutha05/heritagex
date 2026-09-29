@@ -1,0 +1,18 @@
+{"slug":"sagar-gote","folder":"sagar_gote","video":"/videos/video4_sagar_gote.mp4","tone":["#8a5aa8","#472a63"],
+"title":"Sagar Gote","region":"Maharashtra","category":"Traditional Skill Game",
+"overview":"A coordination game played using seven smooth stones that develops timing, concentration and fine motor skills.",
+"materialsLabel":"Equipment","materials":["Seven stones","Flat surface"],
+"tools":[],"processLabel":"Rules","process":["Scatter","Pick one","Toss","Collect another","Catch","Continue","Finish"],
+"significance":["Develops timing, concentration and fine motor skills."],
+"questions":[
+{"question":"What is Sagar Gote?","answer":"Traditional stone game."},
+{"question":"Stones used?","answer":"Seven."},
+{"question":"First action?","answer":"Scatter."},
+{"question":"After toss?","answer":"Pick another."},
+{"question":"Skill improved?","answer":"Coordination."},
+{"question":"Is timing important?","answer":"Yes."},
+{"question":"Surface needed?","answer":"Flat ground."},
+{"question":"Heritage category?","answer":"Traditional game."},
+{"question":"Why educational?","answer":"Fine motor skills."},
+{"question":"Goal?","answer":"Collect all stones."}],
+"tryActivity":{"title":"Practice toss-and-catch","instructions":["Scatter the stones.","Toss one stone and pick up another.","Catch before it lands."],"recommendation":"Toss a little higher to give yourself time to pick up the next stone."}}

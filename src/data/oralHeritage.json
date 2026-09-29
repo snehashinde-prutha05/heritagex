@@ -1,0 +1,50 @@
+{"items":[
+{"slug":"ovya-1","kind":"Folk Songs","lang":"en","title":"Unearthing Maharashtrian Tradition","region":"Maharashtra","category":"Wedding Folk Song","audio":"/audio/ovya_01.mp3",
+"description":[
+"Maharashtra is famous for its traditions and culture, not only in India but across the world. One of these traditions and arts is the jatyavarchya ovya, the verses sung at the grinding stone. An art like this is hard to find anywhere else in the world. At a wedding, singing ovya while grinding turmeric on the stone mill is an old Maharashtrian tradition, and a favourite one among women.",
+"These ovya protect the Marathi language and its sweetness. They speak, in playful and teasing ways, about every relationship in society: brother and sister, father and daughter, husband and wife, husband's sister and brother's wife, mother and daughter, mother-in-law and daughter-in-law, and more. Some ovya touch the heart and bring tears. Others describe God and nature with great imagination."],
+"themes":["Brother & Sister","Mother & Daughter","Husband & Wife","Nature","Devotion","Wedding rituals"],
+"transcript":"","translation":"",
+"entities":[
+{"label":"Maharashtra","info":"The state in western India where this tradition is sung."},
+{"label":"Ovya","info":"Marathi folk verses sung by women."},
+{"label":"Wedding","info":"Ovya are sung during wedding rituals, while turmeric is ground."},
+{"label":"Stone mill","info":"The hand-turned grinding stone (jate) used while singing."}],
+"questions":[
+{"question":"What are Ovya?","answer":"Marathi folk verses."},
+{"question":"When sung?","answer":"Wedding rituals."},
+{"question":"Who sings them?","answer":"Women."},
+{"question":"State?","answer":"Maharashtra."},
+{"question":"Tool used?","answer":"Stone mill."},
+{"question":"Language?","answer":"Marathi."},
+{"question":"Themes?","answer":"Relationships & devotion."},
+{"question":"Why important?","answer":"Preserves oral heritage."},
+{"question":"Heritage type?","answer":"Folk song."},
+{"question":"Cultural value?","answer":"Living tradition."}]},
+{"slug":"ovya-2","kind":"Folk Songs","lang":"mr","title":"जात्यावरच्या ओव्या","region":"Maharashtra","category":"Wedding Folk Song","audio":"/audio/ovya_02.mp3",
+"description":[
+"आपला महाराष्ट्र परंपरा आणि संस्कृती साठी भारतातच नाही तर जगभरात सुप्रसिद्ध आहे. त्यातलीच एक परंपरा आणि कला म्हणजे जात्यावरच्या ओव्या. जगाच्या पाठीवर हो कला सापडणं अवघडच. लग्न समारंभ म्हंटला की जात्यावर हळद दळताना ओव्या म्हणण्याची महाराष्ट्राची जुनी आणि बायकांची आवडती परंपरा.",
+"या ओव्या आपली मराठी भाषा जपतात त्यातला गोडवा जपतात. समाजासाठी समाजातल्या प्रत्येक नात्यासाठी, भावा बहिणी साठी , बाप लेकीसाठी , नवरा बायकोच, नणंद भाऊजईच, माय लेकीच, सासू सूनेच ई. नात खट्याळ आणि मिश्किल स्वरूपात सांगणाऱ्या ओव्या आहेत. त्यातच मनाला भावूक करणाऱ्या ही ओव्या या महाराष्ट्र तयार झाल्या. एवढाच नाही तर देवाचं, निसर्गाचं कल्पकतेने वर्णन करता या ओव्या."],
+"themes":["Brother & Sister","Mother & Daughter","Husband & Wife","Nature","Devotion","Wedding rituals"],
+"transcript":"","translation":"",
+"entities":[
+{"label":"Maharashtra","info":"The state in western India where this tradition is sung."},
+{"label":"Ovya","info":"Marathi folk verses sung by women."},
+{"label":"Wedding","info":"Ovya are sung during wedding rituals, while turmeric is ground."},
+{"label":"Stone mill","info":"The hand-turned grinding stone (jate) used while singing."}],
+"questions":[
+{"question":"What are Ovya?","answer":"Marathi folk verses."},
+{"question":"When sung?","answer":"Wedding rituals."},
+{"question":"Who sings them?","answer":"Women."},
+{"question":"State?","answer":"Maharashtra."},
+{"question":"Tool used?","answer":"Stone mill."},
+{"question":"Language?","answer":"Marathi."},
+{"question":"Themes?","answer":"Relationships & devotion."},
+{"question":"Why important?","answer":"Preserves oral heritage."},
+{"question":"Heritage type?","answer":"Folk song."},
+{"question":"Cultural value?","answer":"Living tradition."}]},
+{"slug":"story-1","kind":"Stories","lang":"en","title":"Story 1 (add title)","region":"Add region","category":"Oral narrative","audio":"/audio/story_01.mp3",
+"description":["Add the story information here in src/data/oralHeritage.json."],
+"themes":[],"transcript":"","translation":"","entities":[],
+"questions":[{"question":"What is this story about?","answer":"Add the story details and questions in src/data/oralHeritage.json."}]}
+]}

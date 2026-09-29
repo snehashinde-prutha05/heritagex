@@ -1,0 +1,4 @@
+{"states":[
+{"id":"mh","label":"Maharashtra","traditions":[{"label":"Ovya","to":"/oral-heritage/ovya-1"},{"label":"Vasudev","to":"/explore/vasudev"},{"label":"Sagar Gote","to":"/explore/sagar-gote"},{"label":"Gauri Festival","to":"/explore/gauri-festival"}]},
+{"id":"jh","label":"Jharkhand","traditions":[{"label":"Dhokra","to":"/ar-studio/dhokra"},{"label":"Paila Art","to":null}]},
+{"id":"wb","label":"West Bengal","traditions":[{"label":"Dhokra","to":"/ar-studio/dhokra"},{"label":"Ganjifa","to":null}]}]}

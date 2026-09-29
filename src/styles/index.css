@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+body{margin:0;background-color:#eceef5;color:#2b2b2e;font-family:Inter,system-ui,sans-serif;overflow-x:hidden;
+background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='160' height='160'%3E%3Cfilter id='n'%3E%3CfeTurbulence baseFrequency='.8' numOctaves='2'/%3E%3CfeColorMatrix values='0 0 0 0 .5 0 0 0 0 .5 0 0 0 0 .55 0 0 0 .07 0'/%3E%3C/filter%3E%3Crect width='160' height='160' filter='url(%23n)'/%3E%3C/svg%3E")}
+@layer components{
+ .btn{@apply inline-flex items-center justify-center rounded-full bg-brand px-6 py-3 text-sm font-semibold text-white shadow-soft transition hover:brightness-105 disabled:cursor-not-allowed disabled:opacity-40;}
+ .btn-ghost{@apply inline-flex items-center justify-center rounded-full border border-line bg-card px-6 py-3 text-sm font-semibold text-ink transition hover:border-accent1;}
+}
+:focus-visible{outline:2px solid #ff5f7e;outline-offset:3px}
+@media (prefers-reduced-motion:reduce){*{transition:none!important}}
+.sticker svg{overflow:visible;filter:drop-shadow(0 3px 5px rgba(0,0,0,.18))}
+.sticker svg *{paint-order:stroke;stroke:#fff;stroke-width:9;stroke-linejoin:round}
+.sticker svg .keep{stroke:#5a3410;stroke-width:3;paint-order:normal}

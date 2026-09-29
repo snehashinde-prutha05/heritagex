@@ -1,0 +1,16 @@
+{"title":"Preserving Intangible Cultural Heritage as Living Knowledge",
+"intro":[
+"India has many monuments and texts that are protected because they physically exist. This is tangible heritage.",
+"Many traditions, festivals, rituals, arts and crafts also carry deep cultural meaning but have no physical form. They pass from one generation to the next, and they are recognised as intangible cultural heritage.",
+"Much of this knowledge is learned by hands-on practice and direct contact with practitioners, and it stays scattered across people, communities, photos, videos and documents. HeritageX is an interactive platform for preserving and learning it directly from practitioners and community knowledge."],
+"stages":[
+{"title":"Capture","text":"Practitioners and community members record videos, stories, explanations and traditional processes. The original recording is preserved as the primary source."},
+{"title":"Structure and verify","text":"The content is organised into a structured record: tradition, location, materials, steps, cultural meaning and oral knowledge. AI can help structure it, but a practitioner or community member verifies it before it counts as verified knowledge."},
+{"title":"Explore","text":"For people who want to understand a tradition without practising it: its story, culture and significance, why and how it is done, documented reasoning where available, materials, process and the practitioner's own explanation."},
+{"title":"Oral Heritage","text":"Storyteller recordings preserve oral traditions. People, places, festivals and cultural references link to explanations, so listeners can hear the original recording and explore its context."},
+{"title":"Learn","text":"Practitioner videos show the traditional process, broken into step-by-step stages that users can follow instead of only reading about it."},
+{"title":"Try and capture","text":"Users attempt the practice and record it on camera. The attempt is compared with the practitioner's reference technique."},
+{"title":"Feedback","text":"Feedback is about the learner's attempt: practitioner reference, user attempt, comparison, then feedback such as stroke or path similarity, movement sequence and areas to improve. The prototype shows a mock result until the ML comparison is built."},
+{"title":"AR Studio","text":"For selected crafts like Dhokra, the making process is shown stage by stage, with what changed from the previous stage. The animation follows the real stages of the craft. The fuller version will be viewable in AR."},
+{"title":"AI and RAG","text":"A user's question retrieves relevant verified HeritageX content, and AI writes the answer from it. Practitioner and community content is the source of knowledge. AI only helps people ask about it and never invents cultural information outside the verified base."}],
+"note":"AI does not decide whether something is culturally authentic. Practitioner and community verification always does."}

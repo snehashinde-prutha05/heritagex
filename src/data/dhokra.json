@@ -1,0 +1,12 @@
+{"title":"Dhokra","overview":"Dhokra is a lost-wax metal casting craft. Follow the nine steps from raw clay to a polished brass artifact.",
+"steps":[
+{"id":1,"title":"Clay preparation","description":"Clay is prepared using soil, rice husk and water to create the internal core.","materials":["Soil","Rice Husk","Water"]},
+{"id":2,"title":"Shaping the clay core","description":"The crude clay core is shaped by hand into the rough form of the piece. It has no metallic appearance yet.","materials":["Prepared clay"]},
+{"id":3,"title":"Dhuna and beeswax","description":"Dhuna and beeswax are prepared as the raw material for the wax work. This step covers material preparation only.","materials":["Dhuna","Beeswax"]},
+{"id":4,"title":"Black wax strips","description":"A wax machine presses the prepared wax into thin black strips.","materials":["Dhuna","Beeswax"]},
+{"id":5,"title":"Wax replica","description":"Black wax strips are wrapped over the clay core to build the detailed wax replica. No brass appears at this stage.","materials":["Black wax strips","Clay core"]},
+{"id":6,"title":"Clay mould","description":"Three layers of clay are applied over the wax replica, from thin to medium to thick, to build the mould.","materials":["Clay"]},
+{"id":7,"title":"Lost wax","description":"The mould is heated so the wax melts and runs out, leaving an internal cavity in the shape of the piece.","materials":["Clay mould","Heat"]},
+{"id":8,"title":"Metal casting","description":"Molten metal is poured into the mould, fills the cavity, then cools and sets.","materials":["Molten metal","Clay mould"]},
+{"id":9,"title":"Final artifact","description":"The mould is broken, and the casting is cleaned and polished to reveal the finished artifact.","materials":["Cast piece"]}
+]}
